@@ -22,11 +22,9 @@ defaults:
     layout: page
 permalink: pretty
 email: midknight55@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description: |
   Storefront Engineer and Ecommerce Architect.
-url: "http://davidwitt.me" # the base hostname & protocol for your site
+url: http://davidwitt.me
 twitter_username: devwitt
-github_username:  JumboLove
-
-# Build settings
+github_username: JumboLove
 markdown: kramdown
