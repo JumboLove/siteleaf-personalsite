@@ -1,0 +1,8 @@
+---
+title: Test Post
+date: 2016-07-08 23:01:00 -04:00
+---
+
+#Test Post
+
+This is a test post
