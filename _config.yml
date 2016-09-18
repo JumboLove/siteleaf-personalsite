@@ -22,8 +22,9 @@ defaults:
     layout: page
 permalink: pretty
 email: midknight55@gmail.com
-description: |
-  Storefront Engineer and Ecommerce Architect.
+description: 'Storefront Engineer and Ecommerce Architect.
+
+'
 url: http://davidwitt.me
 twitter_username: devwitt
 github_username: JumboLove
